@@ -1,5 +1,5 @@
 def base_hash
-  {railroads = }
+  {base_hash = monopoly}
 
 end
 
